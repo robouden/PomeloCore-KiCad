@@ -47758,7 +47758,7 @@
 	(symbol
 		(lib_id "1206B475K500NT_2")
 		(at 316.23 285.75 0)
-		(unit 0)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -47784,7 +47784,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric"
 			(at 316.23 285.75 0)
 			(effects
 				(font
@@ -47857,7 +47857,7 @@
 			(project "Polemo Core 2"
 				(path "/0190368d-9c8f-48e4-a1da-81c8419b9305"
 					(reference "C39")
-					(unit 0)
+					(unit 1)
 				)
 			)
 		)
@@ -61986,7 +61986,7 @@
 	(symbol
 		(lib_id "1206B475K500NT_3")
 		(at 306.07 285.75 0)
-		(unit 0)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -62012,7 +62012,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric"
 			(at 306.07 285.75 0)
 			(effects
 				(font
@@ -62085,7 +62085,7 @@
 			(project "Polemo Core 2"
 				(path "/0190368d-9c8f-48e4-a1da-81c8419b9305"
 					(reference "C38")
-					(unit 0)
+					(unit 1)
 				)
 			)
 		)
